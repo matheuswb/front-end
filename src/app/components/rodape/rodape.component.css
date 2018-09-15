@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+
+#rodape{
+    text-align: center;
+}
+
+#rodape hr{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+a{
+    text-decoration:none; 
+    font: normal 14px Roboto,arial,sans-serif;
+    color: black;
+}
+
+h5{
+    text-decoration:none; 
+    font: normal 14px Roboto,arial,sans-serif;
+    color: black;
+}

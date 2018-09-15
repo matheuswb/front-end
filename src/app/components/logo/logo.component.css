@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+
+#logo{
+    background-image: url('/assets/logo-0012.png');
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: 20%;
+    height: 150px;
+    width: 100vw; 
+}
+
+

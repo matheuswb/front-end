@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+
+h1{
+    text-decoration:none; 
+    font: normal 25px Roboto,arial,sans-serif;
+    color: black;
+    text-align: center;
+}
+
+p{
+    text-decoration:none; 
+    font: normal 20px Roboto,arial,sans-serif;
+    color: black;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
